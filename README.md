@@ -1,2 +1,2 @@
 # easy-web-attacks
-A collection of web attacks for lazy people.
+It is a collection of web attacks for lazy people.
